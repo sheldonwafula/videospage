@@ -3,4 +3,15 @@ body{
 }
 .navbar{
     background-color: rgb(235, 16, 16);
+    padding: 10px 0 10px 0;
+    margin: 10px 0 10px 0;
+}
+.nav{
+    text-align: center;
+    align-content: center;
+}
+.input{
+    align-items: center;
+    text-align: right;
+    float: right;
 }
